@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d8ecad-1f11-40e8-8d12-554260a73b07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskinkocak/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/taskinkocak/Main2.java" afterDir="false" />
-    </list>
+    <list default="true" id="68d8ecad-1f11-40e8-8d12-554260a73b07" name="Changes" comment="Java degiskenler" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +61,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712330902074</updated>
-      <workItem from="1712330903118" duration="689000" />
+      <workItem from="1712330903118" duration="1307000" />
     </task>
+    <task id="LOCAL-00001" summary="Java degiskenler">
+      <option name="closed" value="true" />
+      <created>1712332201491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712332201491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java degiskenler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java degiskenler" />
   </component>
 </project>
